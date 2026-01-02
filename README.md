@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandankrswain&label=Visits&color=091515&style=flat" alt="chandankrswain" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on **Portfolio**
+- 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **GSAP, Motion, NextJs**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **mr.chandanswain@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cwBM7Zwwmy4-qzN9Y1k5uv_v74hry4_z/view?usp=drive_link](https://drive.google.com/file/d/1cwBM7Zwwmy4-qzN9Y1k5uv_v74hry4_z/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cwBM7Zwwmy4-qzN9Y1k5uv_v74hry4_z/view?usp=drive_link](MY RESUME)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
