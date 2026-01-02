@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mr.chandanswain@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cwBM7Zwwmy4-qzN9Y1k5uv_v74hry4_z/view?usp=drive_link](MY RESUME)
+- 📄 Know about my experiences **<a href="https://drive.google.com/file/d/1cwBM7Zwwmy4-qzN9Y1k5uv_v74hry4_z/view?usp=drive_link" >MY RESUME</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
