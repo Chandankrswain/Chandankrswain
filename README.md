@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **My Portfolio**
 
-- 🌱 I’m currently learning **GSAP, Motion, NextJs**
+- 🌱 I’m currently learning **GSAP, Motion, Threejs**
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-tan-delta-22.vercel.app/](https://my-portfolio-tan-delta-22.vercel.app/)
 
-- 💬 Ask me about **Js, Typescript, Tailwind Css, ReactJs, Redux,**
+- 💬 Ask me about **Js, Typescript, Tailwind Css, ReactJs, Redux, Nextjs, Css, HTML**
 
 - 📫 How to reach me **mr.chandanswain@gmail.com**
 
